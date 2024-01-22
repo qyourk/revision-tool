@@ -41,7 +41,7 @@ jobs:
           echo "SHA256_HASH=$($hash.Hash)" | Out-File -FilePath $env:GITHUB_ENV -Append
         
       - name: Release
-        uses: actions/upload-release-action@v2
+        uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.TOKEN }}
           file: build/RevisionTool-Setup.exe
