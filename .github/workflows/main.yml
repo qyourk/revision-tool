@@ -1,5 +1,5 @@
 on:
-  workflow_dispath
+  workflow_dispatch
     
 name: "Build & Release"
 jobs:
