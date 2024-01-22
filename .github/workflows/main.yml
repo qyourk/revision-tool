@@ -1,7 +1,6 @@
 on:
-  push:
-    tags:
-      - '*'
+  workflow_dispath
+    
 name: "Build & Release"
 jobs:
   build:
