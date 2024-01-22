@@ -48,15 +48,9 @@ Future<void> main() async {
   );
   await WindowPlus.instance.setMinimumSize(const Size(515, 330));
 
-  if (registryUtilsService.readString(
-              RegistryHive.localMachine,
-              r'SOFTWARE\Microsoft\Windows NT\CurrentVersion',
-              'EditionSubVersion') ==
-          'ReviOS' &&
-      buildNumber > 19043) {
+  
     i('isSupported is true');
     _isSupported = true;
-  }
 
   runApp(const MyApp());
 }
