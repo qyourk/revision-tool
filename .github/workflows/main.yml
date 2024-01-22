@@ -42,9 +42,8 @@ jobs:
         
       - name: Release
         uses: svenstaro/upload-release-action@v2
-        env:
-          GITHUB_TOKEN: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
         with:
+          repo_token: ${{ secrets.TOKEN }}
           file: build/RevisionTool-Setup.exe
           asset_name: RevisionTool-Setup.exe
           tag: ${{ github.ref }}
