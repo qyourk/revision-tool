@@ -1,0 +1,121 @@
+{
+  "ar": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "de": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "fr": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "hu": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "it": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "pt": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "ro": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "ru": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "tr": [
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog"
+  ],
+
+  "uk": [
+    "securityDownfallMitLabel",
+    "securityDownfallMitDescription",
+    "securityDownfallMitCodeSnippet",
+    "usabilityNotifDescription",
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog",
+    "miscUpdateKGL",
+    "miscUpdateKGLDescription"
+  ],
+
+  "zh_TW": [
+    "perfSGMLabel",
+    "perfSGMDescription",
+    "perfSGMDialog"
+  ]
+}
